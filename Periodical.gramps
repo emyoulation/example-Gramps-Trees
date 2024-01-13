@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE database PUBLIC "-//Gramps//DTD Gramps XML 1.7.1//EN"
+"http://gramps-project.org/xml/1.7.1/grampsxml.dtd">
+<database xmlns="http://gramps-project.org/xml/1.7.1/">
+  <citations>
+    <citation handle="_f67e828ca3c42ebd9e451c5c59a" change="1693895348" id="C2854">
+      <dateval val="1911-06-29"/>
+      <page>Pg. 3, Col.2</page>
+      <confidence>1</confidence>
+      <sourceref hlink="_f67e82065072e72da98784c216f"/>
+    </citation>
+    <citation handle="_f67e840dbf517b8bdffb64d2fc4" change="1693895261" id="C2855">
+      <dateval val="1911-07-03"/>
+      <page>Pg.9</page>
+      <confidence>2</confidence>
+      <sourceref hlink="_f67e82065072e72da98784c216f"/>
+    </citation>
+    <citation handle="_f67e84abdb35adda3bbc12b8d98" change="1695263813" id="C2856">
+      <dateval val="1911-06-28"/>
+      <page>Pg.1</page>
+      <confidence>3</confidence>
+      <sourceref hlink="_f67e82065072e72da98784c216f"/>
+    </citation>
+  </citations>
+  <sources>
+    <source handle="_f67e82065072e72da98784c216f" change="1693896084" id="S0005">
+      <stitle>Twin Falls Times, The</stitle>
+      <sauthor>Hill, Wilbur S. (Ed.)</sauthor>
+      <spubinfo>Twin Falls county, Idaho, USA;  1905-1916</spubinfo>
+      <srcattribute type="Permalink" value="https://www.loc.gov/item/sn86091218/"/>
+      <reporef hlink="_f67e89c13af58b37c7e36eb5a6" callno="13310839" medium="Newspaper"/>
+    </source>
+  </sources>
+  <repositories>
+    <repository handle="_f67e89c13af58b37c7e36eb5a6" change="1693895859" id="R0006">
+      <rname>Library of Congress</rname>
+      <type>Library</type>
+    </repository>
+  </repositories>
+</database>
