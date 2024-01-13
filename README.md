@@ -1,5 +1,9 @@
 # example-Gramps-Trees
 sample importable genealogical Tree data for Gramps experiments and tutorials
+* **NEHGR_Moss_2023-11-11.gpkg** Gramps XML file - example data for designing a "Register style" descendant report
+* **RegisterClone_Moss_2023-11-11.gpkg** Gramps XML file - similar to above
+* **Periodical.gramps** Gramps XML file - Periodicals/Serials citations
+* **royal92.ged** GEDCOM file - classic 1992 sample genealogy data by [Denis R. Reid 1937-1998](https://www.findagrave.com/memorial/163224803/denis-robert-reid) 
 
 
 GrampsPseudonymTree(27Sep2022).zip
