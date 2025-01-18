@@ -5,9 +5,7 @@ sample importable genealogical Tree data for Gramps experiments and tutorials
 * **Periodical.gramps** Gramps XML file - Periodicals/Serials citations
 * **RegisterClone_Moss_2023-11-11.gpkg** Gramps XML file - similar to above
 * **royal92.ged** GEDCOM file - classic 1992 sample genealogy data by [Denis R. Reid 1937-1998](https://www.findagrave.com/memorial/163224803/denis-robert-reid) 
-
-
-GrampsPseudonymTree(27Sep2022).zip
+* **GrampsPseudonymTree(27Sep2022).zip** Gramps XML compressed - generic tree of persons. A progenitor (proband) and descendants (IDs with "NGSQ-"); direct ancestors (IDs with "Ahn-:); Spouse and ancestors (IDs with "Sosa-")
 ![image](https://user-images.githubusercontent.com/69127217/203196690-b1652ed3-ae0d-4067-8397-9d6e6f6033ed.png)
 
 RelationshipsCoreBoard_2022-11-02.gpkg
@@ -18,4 +16,3 @@ US_Presidents_2022-11-02.gramps
 
 countries_flags2022.svg
 ![image](https://user-images.githubusercontent.com/69127217/203195979-58185e09-0f76-402b-ab5e-8736526ff1e5.png)
-
